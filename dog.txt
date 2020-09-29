@@ -1,0 +1,5 @@
+dog.txt
+-------
+The domestic dog (Canis lupus familiaris) is a canid that is known as man's best friend.
+git config --local user.name "Joffi"
+git config --local user.email grace.bi@yahoo.com
